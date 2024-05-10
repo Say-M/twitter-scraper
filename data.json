@@ -1,0 +1,591 @@
+{
+  "pinned": {
+    "tweet_id": "1307265267190304769",
+    "bookmarks": 0,
+    "created_at": "Sat Sep 19 10:28:22 +0000 2020",
+    "favorites": 17,
+    "text": "Alhamdulillah \nI get my first job as a Junior Frontend Developer.\nI am really so excited.\n\ud83c\udf89\ud83d\ude03\ud83c\udf89\ud83d\ude00",
+    "lang": "en",
+    "views": null,
+    "quotes": 0,
+    "replies": 6,
+    "retweets": 0,
+    "conversation_id": "1307265267190304769",
+    "media": [],
+    "author": {
+      "rest_id": "1296879207977324544",
+      "name": "Mohammad Sayem",
+      "screen_name": "coder_sayem",
+      "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+      "blue_verified": false
+    }
+  },
+  "timeline": [
+    {
+      "tweet_id": "1395605266209513472",
+      "bookmarks": 0,
+      "created_at": "Fri May 21 04:59:59 +0000 2021",
+      "favorites": 0,
+      "text": "RT @IMAC2: Debug JavaScript like a pro!\n\nGet to know the 22 methods.\n\nExplanations inside \ud83e\uddf5\ud83d\udc47 https://t.co/oo6OWdvd7b",
+      "lang": "en",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "49648553",
+            "name": "\u00c1lvaro Trigo  \ud83d\udc26\ud83d\udd25",
+            "screen_name": "IMAC2"
+          }
+        ]
+      },
+      "replies": 0,
+      "retweets": 571,
+      "conversation_id": "1395605266209513472",
+      "media": [],
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      }
+    },
+    {
+      "tweet_id": "1392841252857475075",
+      "bookmarks": 0,
+      "created_at": "Thu May 13 13:56:47 +0000 2021",
+      "favorites": 2,
+      "text": "Finally this project is completed.\nBy completing the project I have learn so many things.\nIn this video I showed some features of this web application.\n\nTechnologies: HTML, CSS, Bootstrap, React, NextJs, Firebase.\n\nDemo: https://t.co/bZTRlV2omm\n\n#javascript #React #webdevelopment https://t.co/ytf0oF2Xqa",
+      "lang": "en",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "javascript"
+          },
+          {
+            "text": "React"
+          },
+          {
+            "text": "webdevelopment"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "triple-point.vercel.app",
+            "expanded_url": "https://triple-point.vercel.app",
+            "url": "https://t.co/bZTRlV2omm"
+          }
+        ],
+        "user_mentions": []
+      },
+      "replies": 0,
+      "retweets": 1,
+      "conversation_id": "1392841252857475075",
+      "media": [],
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      }
+    },
+    {
+      "tweet_id": "1381344489567002625",
+      "bookmarks": 0,
+      "created_at": "Sun Apr 11 20:32:45 +0000 2021",
+      "favorites": 1,
+      "text": "Here is my fiverr gig\nIf any of you interested click the link below\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\n\nhttps://t.co/HU0YstZ8MB\n\nI have good experience on the following areas:\n#html,\n#CSS,\n#bootstrap,\n#javascript,\n#Reactjs,\n#nextjs,\nPSD/AI/Figma to React\n\n#coder #programmer",
+      "lang": "en",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "html"
+          },
+          {
+            "text": "CSS"
+          },
+          {
+            "text": "bootstrap"
+          },
+          {
+            "text": "javascript"
+          },
+          {
+            "text": "Reactjs"
+          },
+          {
+            "text": "nextjs"
+          },
+          {
+            "text": "coder"
+          },
+          {
+            "text": "programmer"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "fiverr.com/share/l3p02e",
+            "expanded_url": "https://www.fiverr.com/share/l3p02e",
+            "url": "https://t.co/HU0YstZ8MB"
+          }
+        ],
+        "user_mentions": []
+      },
+      "replies": 0,
+      "retweets": 1,
+      "conversation_id": "1381344489567002625",
+      "media": [],
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      }
+    },
+    {
+      "tweet_id": "1345421204409094145",
+      "bookmarks": 0,
+      "created_at": "Sat Jan 02 17:26:26 +0000 2021",
+      "favorites": 0,
+      "text": "RT @TareqeRohan: \u099b\u09cb\u099f\u09cd\u099f \u09aa\u09cd\u09b0\u099a\u09c7\u09b7\u09cd\u099f\u09be \u09ac\u09c3\u09b9\u09ce \u09b8\u09ae\u09b8\u09cd\u09af\u09be \u09b8\u09ae\u09be\u09a7\u09be\u09a8\u09c7\u09b0\u0964 \u09b8\u09b9\u09be\u09af\u09bc\u09a4\u09be \u0995\u09b0\u09c1\u09a8 \u09b8\u09be\u09ae\u09b0\u09cd\u09a5\u09cd\u09af\u09a8\u09c1\u09af\u09be\u09af\u09bc\u09c0\u0964\n#Project_Inbound0.1\n#donation\n#helpthepeople\n#a_little\u2026",
+      "lang": "bn",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Project_Inbound0"
+          },
+          {
+            "text": "donation"
+          },
+          {
+            "text": "helpthepeople"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1033655059026853888",
+            "name": "Tareqe Monoar Rohan",
+            "screen_name": "TareqeRohan"
+          }
+        ]
+      },
+      "replies": 0,
+      "retweets": 1,
+      "conversation_id": "1345421204409094145",
+      "media": [],
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      }
+    },
+    {
+      "tweet_id": "1330081931309019139",
+      "bookmarks": 0,
+      "created_at": "Sat Nov 21 09:33:38 +0000 2020",
+      "favorites": 0,
+      "text": "Any programmers here? \ud83d\ude02\ud83d\ude01\n#NewProfilePic https://t.co/os0vy6Paxy",
+      "lang": "en",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "NewProfilePic"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "replies": 0,
+      "retweets": 0,
+      "conversation_id": "1330081931309019139",
+      "media": [],
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      }
+    },
+    {
+      "tweet_id": "1310143134915985411",
+      "bookmarks": 0,
+      "created_at": "Sun Sep 27 09:03:59 +0000 2020",
+      "favorites": 2,
+      "text": "Fail Fail Fail ... ... ... \nThen\nSuccess",
+      "lang": "en",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "replies": 1,
+      "retweets": 0,
+      "conversation_id": "1310143134915985411",
+      "media": [],
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      }
+    },
+    {
+      "tweet_id": "1304051827025928193",
+      "bookmarks": 0,
+      "created_at": "Thu Sep 10 13:39:18 +0000 2020",
+      "favorites": 5,
+      "text": "Recently I am working with vanilla js instead of using jQuery\nand I made this.\n#100DaysOfCode #CodeNewbie #javascript https://t.co/Y5BwxgEa4V",
+      "lang": "en",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "100DaysOfCode"
+          },
+          {
+            "text": "CodeNewbie"
+          },
+          {
+            "text": "javascript"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "replies": 1,
+      "retweets": 4,
+      "conversation_id": "1304051827025928193",
+      "media": {
+        "video": [
+          {
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304051431893118977/pu/img/OmWi_iNNS_QxsVbM.jpg",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1304051431893118977/pu/pl/HQsmuP6PwjPwVGvq.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1304051431893118977/pu/vid/480x270/yYbE62PfYxLIOHwt.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1304051431893118977/pu/vid/640x360/5l1vdIO57qzdvVqp.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1304051431893118977/pu/vid/1280x720/pROWnWhrtocae-Dh.mp4?tag=10"
+              }
+            ],
+            "aspect_ratio": [16, 9],
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": []
+            },
+            "id": "1304051431893118977"
+          }
+        ]
+      },
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      }
+    },
+    {
+      "tweet_id": "1303035941196451842",
+      "bookmarks": 0,
+      "created_at": "Mon Sep 07 18:22:32 +0000 2020",
+      "favorites": 0,
+      "text": "RT @jh3yy: Heard about the content-visibility property? \ud83d\udd25\n\n\u2022 It reduced page rendering times from ~500ms to 6ms! \ud83d\ude2e\n\u2022 You did read that righ\u2026",
+      "lang": "en",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2396811776",
+            "name": "jhey \u25b2\ud83d\udc3b\ud83c\udf88",
+            "screen_name": "jh3yy"
+          }
+        ]
+      },
+      "replies": 0,
+      "retweets": 21,
+      "conversation_id": "1303035941196451842",
+      "media": [],
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      },
+      "retweeted": {
+        "id": "1303027461400203266"
+      },
+      "retweeted_tweet": {
+        "tweet_id": "1303027461400203266",
+        "bookmarks": 29,
+        "created_at": "Mon Sep 07 17:48:50 +0000 2020",
+        "favorites": 89,
+        "text": "Heard about the content-visibility property? \ud83d\udd25\n\n\u2022 It reduced page rendering times from ~500ms to 6ms! \ud83d\ude2e\n\u2022 You did read that right \ud83d\ude05 \n\u2022 New in @googlechrome v85 \ud83d\ude0e\n\u2022 Hopefully in other browsers soon \ud83d\ude4f\n\nhttps://t.co/UYmFC5P1sc via @eggheadio",
+        "lang": "en",
+        "views": null,
+        "quotes": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [
+            {
+              "display_url": "egghead.io/lessons/css-us\u2026",
+              "expanded_url": "https://egghead.io/lessons/css-use-content-visibility-auto-to-significantly-improve-page-performance?af=8ajh64",
+              "url": "https://t.co/UYmFC5P1sc",
+              "indices": [200, 223]
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "56505125",
+              "name": "Chrome",
+              "screen_name": "googlechrome",
+              "indices": [142, 155]
+            },
+            {
+              "id_str": "921398240",
+              "name": "egghead.io",
+              "screen_name": "eggheadio",
+              "indices": [228, 238]
+            }
+          ]
+        },
+        "replies": 2,
+        "retweets": 21,
+        "conversation_id": "1303027461400203266",
+        "author": {
+          "rest_id": "2396811776",
+          "name": "jhey \u25b2\ud83d\udc3b\ud83c\udf88",
+          "screen_name": "jh3yy",
+          "avatar": "https://pbs.twimg.com/profile_images/1534700564810018816/anAuSfkp_normal.jpg",
+          "blue_verified": true
+        },
+        "media": []
+      }
+    },
+    {
+      "tweet_id": "1301960233875464192",
+      "bookmarks": 0,
+      "created_at": "Fri Sep 04 19:08:03 +0000 2020",
+      "favorites": 8,
+      "text": "Recently learning #Nodejs for #backend.\n\nI created this website for my practice. I am still in learning process. Many things to learn.\n\n#github link: https://t.co/RMpWFxY8k0\n\n#CodeNewbies\n#100DaysOfCode\n#Nodejs https://t.co/JGmWjnkWGa",
+      "lang": "en",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Nodejs"
+          },
+          {
+            "text": "backend"
+          },
+          {
+            "text": "github"
+          },
+          {
+            "text": "CodeNewbies"
+          },
+          {
+            "text": "100DaysOfCode"
+          },
+          {
+            "text": "Nodejs"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "github.com/Say-M/bookSell/",
+            "expanded_url": "https://github.com/Say-M/bookSell/",
+            "url": "https://t.co/RMpWFxY8k0"
+          }
+        ],
+        "user_mentions": []
+      },
+      "replies": 1,
+      "retweets": 4,
+      "conversation_id": "1301960233875464192",
+      "media": {
+        "photo": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/EhF95ckUMAEv6nA.jpg",
+            "id": "1301960193161310209"
+          },
+          {
+            "media_url_https": "https://pbs.twimg.com/media/EhF96fKU0AEotyX.jpg",
+            "id": "1301960211037474817"
+          },
+          {
+            "media_url_https": "https://pbs.twimg.com/media/EhF97g8U0AAOx_7.jpg",
+            "id": "1301960228695494656"
+          }
+        ]
+      },
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      }
+    },
+    {
+      "tweet_id": "1301145561001684993",
+      "bookmarks": 0,
+      "created_at": "Wed Sep 02 13:10:50 +0000 2020",
+      "favorites": 7,
+      "text": "I m a beginner web designer.\nStill in learning process. I m looking for a newbie like me. So that, we can learn together and make some combine projects. It'll be beneficial for both u and me. #CodeNewbie\nMy skills are :\n#HTML\n#css\n#Bootstrap\n#javascript\n#jQuery\n#Nodejs (basic)",
+      "lang": "en",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "CodeNewbie"
+          },
+          {
+            "text": "HTML"
+          },
+          {
+            "text": "css"
+          },
+          {
+            "text": "Bootstrap"
+          },
+          {
+            "text": "javascript"
+          },
+          {
+            "text": "jQuery"
+          },
+          {
+            "text": "Nodejs"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "replies": 2,
+      "retweets": 8,
+      "conversation_id": "1301145561001684993",
+      "media": [],
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      }
+    },
+    {
+      "tweet_id": "1296882960881160192",
+      "bookmarks": 0,
+      "created_at": "Fri Aug 21 18:52:47 +0000 2020",
+      "favorites": 1,
+      "text": "He \ud83d\ude06 He \ud83d\ude06 He \ud83d\ude06...\nI create this for following  programmes.",
+      "lang": "en",
+      "views": null,
+      "quotes": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "replies": 0,
+      "retweets": 0,
+      "conversation_id": "1296882960881160192",
+      "media": [],
+      "author": {
+        "rest_id": "1296879207977324544",
+        "name": "Mohammad Sayem",
+        "screen_name": "coder_sayem",
+        "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+        "blue_verified": false
+      }
+    }
+  ],
+  "next_cursor": "DAABCgABGNOn2Di___EKAAIR_3QuhpQQAAgAAwAAAAIAAA",
+  "prev_cursor": "DAABCgABGNOn2DjAJxEKAAITXi-YaxUgAAgAAwAAAAEAAA",
+  "user": {
+    "status": "active",
+    "profile": "coder_sayem",
+    "rest_id": "1296879207977324544",
+    "blue_verified": false,
+    "affiliates": [],
+    "business_account": [],
+    "avatar": "https://pbs.twimg.com/profile_images/1330081596456759298/eY892x8J_normal.jpg",
+    "header_image": "https://pbs.twimg.com/profile_banners/1296879207977324544/1598036449",
+    "desc": "ReactJs Developer.\nCurrently learning nodejs for backend.\n\ngithub: https://t.co/N8YobLSAbW\nFacebook: https://t.co/7xgd4yV5ub",
+    "name": "Mohammad Sayem",
+    "protected": null,
+    "location": "Chattogram, Bangladesh",
+    "friends": 31,
+    "sub_count": 14,
+    "statuses_count": 32,
+    "media_count": 4,
+    "created_at": "Fri Aug 21 18:41:12 +0000 2020",
+    "id": "1296879207977324544"
+  }
+}
