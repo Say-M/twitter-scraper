@@ -13,6 +13,7 @@ export const getInformation = async (screenname: string) => {
     const { data } = await apiRequest.get('timeline.php', {
       params: { screenname },
     });
+    if (data?.user?.status === 'error') throw new Error('User not found');
     return { status: 'success', data };
   } catch (error) {
     console.error(error);
